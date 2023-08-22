@@ -1,0 +1,59 @@
+2023-08-23 01:51:36,282  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,291  INFO [main] CoffeeOrderBoard - Set up orderCounter if orders delivered 1
+2023-08-23 01:51:36,295  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 1, orderLabel = 'Cappuccino', costumerName = 'Назар'}
+2023-08-23 01:51:36,296  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,296  INFO [main] CoffeeOrderBoard - orderCounter increasing 2
+2023-08-23 01:51:36,296  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 2, orderLabel = 'Frappuccino', costumerName = 'Аліна'}
+2023-08-23 01:51:36,297  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,297  INFO [main] CoffeeOrderBoard - orderCounter increasing 3
+2023-08-23 01:51:36,297  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 3, orderLabel = 'Espresso', costumerName = 'Віталік'}
+2023-08-23 01:51:36,298  INFO [main] CoffeeOrderBoard - draw method working
+2023-08-23 01:51:36,299  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 3]
+2023-08-23 01:51:36,299  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,299  INFO [main] CoffeeOrderBoard - orderCounter increasing 4
+2023-08-23 01:51:36,299  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 4, orderLabel = 'Ice Latte', costumerName = 'Олег'}
+2023-08-23 01:51:36,300  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,300  INFO [main] CoffeeOrderBoard - orderCounter increasing 5
+2023-08-23 01:51:36,300  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 5, orderLabel = 'Americano', costumerName = 'Назар'}
+2023-08-23 01:51:36,300  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,300  INFO [main] CoffeeOrderBoard - orderCounter increasing 6
+2023-08-23 01:51:36,301  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 6, orderLabel = 'Espresso', costumerName = 'Орист'}
+2023-08-23 01:51:36,301  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,301  INFO [main] CoffeeOrderBoard - orderCounter increasing 7
+2023-08-23 01:51:36,302  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 7, orderLabel = 'Espresso', costumerName = 'Аліна'}
+2023-08-23 01:51:36,302  INFO [main] CoffeeOrderBoard - draw method working
+2023-08-23 01:51:36,302  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 6]
+2023-08-23 01:51:36,303  INFO [main] CoffeeOrderBoard - Remove order by orderNumber 2, order Order { numberOfOrder = 2, orderLabel = 'Frappuccino', costumerName = 'Аліна'}
+2023-08-23 01:51:36,303  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 5]
+2023-08-23 01:51:36,303  INFO [main] CoffeeOrderBoard - Remove order by orderNumber 5, order Order { numberOfOrder = 5, orderLabel = 'Americano', costumerName = 'Назар'}
+2023-08-23 01:51:36,304  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 4]
+2023-08-23 01:51:36,304  INFO [main] CoffeeOrderBoard - Remove order by orderNumber 3, order Order { numberOfOrder = 3, orderLabel = 'Espresso', costumerName = 'Віталік'}
+2023-08-23 01:51:36,304  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 3]
+2023-08-23 01:51:36,305  INFO [main] CoffeeOrderBoard - Remove order by orderNumber 4, order Order { numberOfOrder = 4, orderLabel = 'Ice Latte', costumerName = 'Олег'}
+2023-08-23 01:51:36,305  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 2]
+2023-08-23 01:51:36,305  INFO [main] CoffeeOrderBoard - Remove order by orderNumber 6, order Order { numberOfOrder = 6, orderLabel = 'Espresso', costumerName = 'Орист'}
+2023-08-23 01:51:36,306  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 1]
+2023-08-23 01:51:36,306  INFO [main] CoffeeOrderBoard - Remove order by orderNumber 7, order Order { numberOfOrder = 7, orderLabel = 'Espresso', costumerName = 'Аліна'}
+2023-08-23 01:51:36,306  INFO [main] CoffeeOrderBoard - draw method working
+2023-08-23 01:51:36,307  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,307  INFO [main] CoffeeOrderBoard - Set up orderCounter if orders delivered 1
+2023-08-23 01:51:36,307  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 1, orderLabel = 'Americano', costumerName = 'Назар'}
+2023-08-23 01:51:36,307  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,308  INFO [main] CoffeeOrderBoard - orderCounter increasing 2
+2023-08-23 01:51:36,308  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 2, orderLabel = 'Espresso', costumerName = 'Орист'}
+2023-08-23 01:51:36,308  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,308  INFO [main] CoffeeOrderBoard - orderCounter increasing 3
+2023-08-23 01:51:36,309  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 3, orderLabel = 'Frappuccino', costumerName = 'Аліна'}
+2023-08-23 01:51:36,309  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,310  INFO [main] CoffeeOrderBoard - orderCounter increasing 4
+2023-08-23 01:51:36,310  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 4, orderLabel = 'Espresso', costumerName = 'Віталік'}
+2023-08-23 01:51:36,311  INFO [main] CoffeeOrderBoard - Add method working
+2023-08-23 01:51:36,311  INFO [main] CoffeeOrderBoard - orderCounter increasing 5
+2023-08-23 01:51:36,311  INFO [main] CoffeeOrderBoard - Creating order Order { numberOfOrder = 5, orderLabel = 'Cappuccino', costumerName = 'Назар'}
+2023-08-23 01:51:36,311  INFO [main] CoffeeOrderBoard - draw method working
+2023-08-23 01:51:36,312  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 5]
+2023-08-23 01:51:36,312  INFO [main] CoffeeOrderBoard - Remove order by orderNumber 3, order Order { numberOfOrder = 3, orderLabel = 'Frappuccino', costumerName = 'Аліна'}
+2023-08-23 01:51:36,312  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 4]
+2023-08-23 01:51:36,312  INFO [main] CoffeeOrderBoard - Remove order by orderNumber 5, order Order { numberOfOrder = 5, orderLabel = 'Cappuccino', costumerName = 'Назар'}
+2023-08-23 01:51:36,312  INFO [main] CoffeeOrderBoard - Deleting order from queue [size: 3]
+2023-08-23 01:51:36,313  INFO [main] CoffeeOrderBoard - draw method working
